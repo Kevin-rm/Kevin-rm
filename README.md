@@ -36,7 +36,7 @@ const me = {
 ## 🤝 Let's Connect
 
 <div>
-    <a href="mailto:kevin.ramarozatovo@gmail.com">
+    <a href="mailto:kevinramarozatovo@gmail.com">
         <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
     <a href="https://facebook.com/kevin.ramaro.3/">
