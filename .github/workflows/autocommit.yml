@@ -3,7 +3,7 @@ name: Auto commit
 on:
   push:
     branches:
-      - autocommit # Just for testing
+      - main
 
   schedule:
     - cron: "*/2 * * * *"
